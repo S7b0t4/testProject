@@ -1,10 +1,11 @@
 import './App.css'
-import MyMap from './MyMapWithSearch'
 
 const App = () => {
 
   return (
-    <MyMap/>
+    <div>
+
+    </div>
   )
 }
 export default App
