@@ -11,6 +11,7 @@
 @media screen and (max-width: 1200px){
 	.map{
 		width: 100%;
+		hught: 90dvh;
 		margin: 0 auto;
 	}
 }
